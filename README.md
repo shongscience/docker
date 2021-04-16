@@ -1,6 +1,6 @@
-# Docker related projects
+# My projects using Docker 
 
-### 1. Docker basics and make my portable customized docker image
+### 1. My portable docker image : Ubuntu+python+jupyterlab
 
 
 yeh
